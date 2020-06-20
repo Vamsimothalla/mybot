@@ -37,7 +37,7 @@ if not CONFIG['is_example_config_or_not'] == "not_sample_anymore":
     print("Please, use your eyes and stop being blinded.")
     quit(1)
 
-TOKEN = CONFIG['bot_token']
+TOKEN = CONFIG['816181999:AAE3dUv9rhUT3sGKRZw9JVZzhrMC36UEA00']
 
 try:
     OWNER_ID = int(CONFIG['owner_id'])
